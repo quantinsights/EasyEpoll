@@ -1,2 +1,2 @@
 # EasyEpoll
-A portable networking library
+A portable networking library.
